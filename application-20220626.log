@@ -1,0 +1,84 @@
+2022-06-26 18:01:39.011 [main] DEBUG TestBasketPricer - Shopping list is:[Apple, Apple, Orange, Apple, Pineapple, Banana, Orange, Banana]
+2022-06-26 18:01:39.014 [main] DEBUG BasketPriceGenerator - Shopping list for basket:[Apple, Apple, Orange, Apple, Pineapple, Banana, Orange, Banana]
+2022-06-26 18:01:39.017 [main] DEBUG BasketPriceGenerator - shopping list group by :{Apple=3, Pineapple=1, Orange=2, Banana=2}
+2022-06-26 18:01:39.019 [main] DEBUG BasketPriceGenerator - After adding Apple price=24.0
+2022-06-26 18:01:39.019 [main] DEBUG BasketPriceGenerator - After adding Banana price=126.0
+2022-06-26 18:01:39.021 [main] DEBUG BasketPriceGenerator - After adding Pineapple basket price : 221.0
+2022-06-26 18:01:39.022 [main] DEBUG BasketPriceGenerator - After adding Orange basket price : 285.0
+2022-06-26 18:01:39.022 [main] DEBUG TestBasketPricer - Shopping list is:[Apple, Apple, Orange, Apple, Apple, Apple, Pineapple, Banana, Orange, Banana, Banana, Banana, Pineapple, Banana]
+2022-06-26 18:01:39.022 [main] DEBUG BasketPriceGenerator - Shopping list for basket:[Apple, Apple, Orange, Apple, Apple, Apple, Pineapple, Banana, Orange, Banana, Banana, Banana, Pineapple, Banana]
+2022-06-26 18:01:39.023 [main] DEBUG BasketPriceGenerator - shopping list group by :{Apple=5, Pineapple=2, Orange=2, Banana=5}
+2022-06-26 18:01:39.023 [main] DEBUG BasketPriceGenerator - After adding Apple price=36.0
+2022-06-26 18:01:39.023 [main] DEBUG BasketPriceGenerator - After adding Banana price=240.0
+2022-06-26 18:01:39.023 [main] DEBUG BasketPriceGenerator - After adding Pineapple basket price : 430.0
+2022-06-26 18:01:39.023 [main] DEBUG BasketPriceGenerator - After adding Orange basket price : 494.0
+2022-06-26 18:05:31.863 [main] DEBUG TestBasketPricer - Shopping list is:[Apple, Apple, Orange, Apple, Pineapple, Banana, Orange, Banana]
+2022-06-26 18:05:31.867 [main] DEBUG BasketPriceGenerator - Shopping list for basket:[Apple, Apple, Orange, Apple, Pineapple, Banana, Orange, Banana]
+2022-06-26 18:05:31.870 [main] DEBUG BasketPriceGenerator - shopping list group by :{Apple=3, Pineapple=1, Orange=2, Banana=2}
+2022-06-26 18:05:31.873 [main] DEBUG BasketPriceGenerator - After adding Apple price=24.0
+2022-06-26 18:05:31.874 [main] DEBUG BasketPriceGenerator - After adding Banana price=126.0
+2022-06-26 18:05:31.877 [main] DEBUG BasketPriceGenerator - After adding Pineapple basket price : 221.0
+2022-06-26 18:05:31.877 [main] DEBUG BasketPriceGenerator - After adding Orange basket price : 285.0
+2022-06-26 18:05:31.877 [main] DEBUG TestBasketPricer - Shopping list is:[Apple, Apple, Orange, Apple, Apple, Apple, Pineapple, Banana, Orange, Banana, Banana, Banana, Pineapple, Banana]
+2022-06-26 18:05:31.878 [main] DEBUG BasketPriceGenerator - Shopping list for basket:[Apple, Apple, Orange, Apple, Apple, Apple, Pineapple, Banana, Orange, Banana, Banana, Banana, Pineapple, Banana]
+2022-06-26 18:05:31.878 [main] DEBUG BasketPriceGenerator - shopping list group by :{Apple=5, Pineapple=2, Orange=2, Banana=5}
+2022-06-26 18:05:31.878 [main] DEBUG BasketPriceGenerator - After adding Apple price=36.0
+2022-06-26 18:05:31.878 [main] DEBUG BasketPriceGenerator - After adding Banana price=240.0
+2022-06-26 18:05:31.879 [main] DEBUG BasketPriceGenerator - After adding Pineapple basket price : 430.0
+2022-06-26 18:05:31.879 [main] DEBUG BasketPriceGenerator - After adding Orange basket price : 494.0
+2022-06-26 18:06:04.778 [main] DEBUG BasketPriceGenerator - Shopping list for basket:[Apple, Apple, Orange, Apple, Pineapple, Banana, Orange, Banana]
+2022-06-26 18:06:04.786 [main] DEBUG BasketPriceGenerator - shopping list group by :{Apple=3, Pineapple=1, Orange=2, Banana=2}
+2022-06-26 18:06:04.788 [main] DEBUG BasketPriceGenerator - After adding Apple price=24.0
+2022-06-26 18:06:04.789 [main] DEBUG BasketPriceGenerator - After adding Banana price=126.0
+2022-06-26 18:06:04.792 [main] DEBUG BasketPriceGenerator - After adding Pineapple basket price : 221.0
+2022-06-26 18:06:04.792 [main] DEBUG BasketPriceGenerator - After adding Orange basket price : 285.0
+2022-06-26 18:06:04.792 [main] INFO  MyShoppingBasket - For shopping basket [Apple, Apple, Orange, Apple, Pineapple, Banana, Orange, Banana], price is 285.0 
+2022-06-26 18:06:41.797 [main] DEBUG TestBasketPricer - Shopping list is:[Apple, Apple, Orange, Apple, Pineapple, Banana, Orange, Banana]
+2022-06-26 18:06:41.799 [main] DEBUG BasketPriceGenerator - Shopping list for basket:[Apple, Apple, Orange, Apple, Pineapple, Banana, Orange, Banana]
+2022-06-26 18:06:41.802 [main] DEBUG BasketPriceGenerator - shopping list group by :{Apple=3, Pineapple=1, Orange=2, Banana=2}
+2022-06-26 18:06:41.804 [main] DEBUG BasketPriceGenerator - After adding Apple price=24.0
+2022-06-26 18:06:41.805 [main] DEBUG BasketPriceGenerator - After adding Banana price=126.0
+2022-06-26 18:06:41.807 [main] DEBUG BasketPriceGenerator - After adding Pineapple basket price : 221.0
+2022-06-26 18:06:41.808 [main] DEBUG BasketPriceGenerator - After adding Orange basket price : 285.0
+2022-06-26 18:06:41.808 [main] DEBUG TestBasketPricer - Shopping list is:[Apple, Apple, Orange, Apple, Apple, Apple, Pineapple, Banana, Orange, Banana, Banana, Banana, Pineapple, Banana]
+2022-06-26 18:06:41.808 [main] DEBUG BasketPriceGenerator - Shopping list for basket:[Apple, Apple, Orange, Apple, Apple, Apple, Pineapple, Banana, Orange, Banana, Banana, Banana, Pineapple, Banana]
+2022-06-26 18:06:41.809 [main] DEBUG BasketPriceGenerator - shopping list group by :{Apple=5, Pineapple=2, Orange=2, Banana=5}
+2022-06-26 18:06:41.809 [main] DEBUG BasketPriceGenerator - After adding Apple price=36.0
+2022-06-26 18:06:41.809 [main] DEBUG BasketPriceGenerator - After adding Banana price=240.0
+2022-06-26 18:06:41.809 [main] DEBUG BasketPriceGenerator - After adding Pineapple basket price : 430.0
+2022-06-26 18:06:41.810 [main] DEBUG BasketPriceGenerator - After adding Orange basket price : 494.0
+2022-06-26 18:11:38.874 [main] DEBUG TestBasketPricer - Shopping list is:[Apple, Apple, Orange, Apple, Pineapple, Banana, Orange, Banana]
+2022-06-26 18:11:38.876 [main] DEBUG BasketPriceGenerator - Shopping list for basket:[Apple, Apple, Orange, Apple, Pineapple, Banana, Orange, Banana]
+2022-06-26 18:11:38.880 [main] DEBUG BasketPriceGenerator - shopping list group by :{Apple=3, Pineapple=1, Orange=2, Banana=2}
+2022-06-26 18:11:38.882 [main] DEBUG BasketPriceGenerator - After adding Apple price=24.0
+2022-06-26 18:11:38.883 [main] DEBUG BasketPriceGenerator - After adding Banana price=126.0
+2022-06-26 18:11:38.886 [main] DEBUG BasketPriceGenerator - After adding Pineapple basket price : 221.0
+2022-06-26 18:11:38.886 [main] DEBUG BasketPriceGenerator - After adding Orange basket price : 285.0
+2022-06-26 18:11:38.886 [main] DEBUG TestBasketPricer - Shopping list is:[Apple, Apple, Orange, Apple, Apple, Apple, Pineapple, Banana, Orange, Banana, Banana, Banana, Pineapple, Banana]
+2022-06-26 18:11:38.887 [main] DEBUG BasketPriceGenerator - Shopping list for basket:[Apple, Apple, Orange, Apple, Apple, Apple, Pineapple, Banana, Orange, Banana, Banana, Banana, Pineapple, Banana]
+2022-06-26 18:11:38.887 [main] DEBUG BasketPriceGenerator - shopping list group by :{Apple=5, Pineapple=2, Orange=2, Banana=5}
+2022-06-26 18:11:38.887 [main] DEBUG BasketPriceGenerator - After adding Apple price=36.0
+2022-06-26 18:11:38.887 [main] DEBUG BasketPriceGenerator - After adding Banana price=240.0
+2022-06-26 18:11:38.888 [main] DEBUG BasketPriceGenerator - After adding Pineapple basket price : 430.0
+2022-06-26 18:11:38.888 [main] DEBUG BasketPriceGenerator - After adding Orange basket price : 494.0
+2022-06-26 18:12:16.649 [main] DEBUG TestBasketPricer - Shopping list is:[Apple, Apple, Orange, Apple, Pineapple, Banana, Orange, Banana]
+2022-06-26 18:12:16.652 [main] DEBUG BasketPriceGenerator - Shopping list for basket:[Apple, Apple, Orange, Apple, Pineapple, Banana, Orange, Banana]
+2022-06-26 18:12:16.655 [main] DEBUG BasketPriceGenerator - shopping list group by :{Apple=3, Pineapple=1, Orange=2, Banana=2}
+2022-06-26 18:12:16.657 [main] DEBUG BasketPriceGenerator - After adding Apple price=24.0
+2022-06-26 18:12:16.658 [main] DEBUG BasketPriceGenerator - After adding Banana price=126.0
+2022-06-26 18:12:16.661 [main] DEBUG BasketPriceGenerator - After adding Pineapple basket price : 221.0
+2022-06-26 18:12:16.661 [main] DEBUG BasketPriceGenerator - After adding Orange basket price : 285.0
+2022-06-26 18:12:16.662 [main] DEBUG TestBasketPricer - Shopping list is:[Apple, Apple, Orange, Apple, Apple, Apple, Pineapple, Banana, Orange, Banana, Banana, Banana, Pineapple, Banana]
+2022-06-26 18:12:16.662 [main] DEBUG BasketPriceGenerator - Shopping list for basket:[Apple, Apple, Orange, Apple, Apple, Apple, Pineapple, Banana, Orange, Banana, Banana, Banana, Pineapple, Banana]
+2022-06-26 18:12:16.662 [main] DEBUG BasketPriceGenerator - shopping list group by :{Apple=5, Pineapple=2, Orange=2, Banana=5}
+2022-06-26 18:12:16.663 [main] DEBUG BasketPriceGenerator - After adding Apple price=36.0
+2022-06-26 18:12:16.663 [main] DEBUG BasketPriceGenerator - After adding Banana price=240.0
+2022-06-26 18:12:16.663 [main] DEBUG BasketPriceGenerator - After adding Pineapple basket price : 430.0
+2022-06-26 18:12:16.663 [main] DEBUG BasketPriceGenerator - After adding Orange basket price : 494.0
+2022-06-26 18:12:38.629 [main] DEBUG BasketPriceGenerator - Shopping list for basket:[Apple, Apple, Orange, Apple, Pineapple, Banana, Orange, Banana]
+2022-06-26 18:12:38.638 [main] DEBUG BasketPriceGenerator - shopping list group by :{Apple=3, Pineapple=1, Orange=2, Banana=2}
+2022-06-26 18:12:38.642 [main] DEBUG BasketPriceGenerator - After adding Apple price=24.0
+2022-06-26 18:12:38.642 [main] DEBUG BasketPriceGenerator - After adding Banana price=126.0
+2022-06-26 18:12:38.645 [main] DEBUG BasketPriceGenerator - After adding Pineapple basket price : 221.0
+2022-06-26 18:12:38.646 [main] DEBUG BasketPriceGenerator - After adding Orange basket price : 285.0
+2022-06-26 18:12:38.647 [main] INFO  MyShoppingBasket - For shopping basket [Apple, Apple, Orange, Apple, Pineapple, Banana, Orange, Banana], price is 285.0 
